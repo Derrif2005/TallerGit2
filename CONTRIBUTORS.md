@@ -4,4 +4,3 @@
 - Flex
 - Derri
 - alice
-- maki
